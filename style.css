@@ -11,6 +11,7 @@
 
 body {
   font-family: 'Roboto', sans-serif;
+  color: rgb(255, 255, 255);
 
   display: flex;            /* aligning body content center using flexbox because most items in project will be center */
   align-items: center;
